@@ -1,0 +1,19 @@
+{
+  "name": "cep-api",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cep",
+    "cep",
+    "api"
+  ],
+  "author": "elo1lson",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
